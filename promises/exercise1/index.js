@@ -6,5 +6,4 @@ function later(delay) {
 
 later(300) .then(() => {
     console.log('TIMED OUT!')
-})
-;
+});
